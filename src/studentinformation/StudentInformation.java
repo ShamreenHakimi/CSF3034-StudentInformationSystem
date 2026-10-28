@@ -16,6 +16,8 @@ public class StudentInformation {
     public static void main(String[] args) {
         String name = "MOHAMAD SHAMREEN HAKIMI BIN ROS SAYIDI"; //display nama
         String StudId = "S88270"; //display student id
+        String Fakulty = "FSKM";
+        String Course = "Sarjana Muda Sains Komputer(Software Engineering)";
         
         int mark1 = 40; // store marks
         int mark2 = 45; // store marks
